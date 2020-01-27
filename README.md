@@ -1,5 +1,6 @@
-# Project Summary
+# Sparkify-Data-Warehouse-AWS
 
+## Project Summary
 In this project, we want to extract relevant analytics information(song plays) from json files (songs files and users log files).
 The proposed solution uses a star schema database where we have 4 dimension tables (time, users, songs and artists)
 and one fact table (song_plays).
