@@ -1,4 +1,4 @@
-# Project Title
+# Project Summary
 
 In this project, we want to extract relevant analytics information(song plays) from json files (songs files and users log files).
 The proposed solution uses a star schema database where we have 4 dimension tables (time, users, songs and artists)
